@@ -1,0 +1,17 @@
+paper.pdf
+*.log
+*.dvi
+*.aux
+*.bbl
+*.out
+*.blg
+*.fls
+*_latexmk
+paper.vtc
+out/
+*.acc
+*.pdf
+*.nav
+*.snm
+*.toc
+*.tdo
